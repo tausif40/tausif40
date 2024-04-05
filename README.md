@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @tausif
 - 👀 I’m interested in Frontend development
-- 🌱 I’m currently learning node.js
+- 🌱 I’m currently looking for a job in React js

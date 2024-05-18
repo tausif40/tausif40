@@ -30,13 +30,13 @@
 - 📄 Know about my experiences **[My Resume](https://drive.google.com/file/d/1uglJVUxPk8RuWmPARPLYAvYYvbFKxVU5/view?usp=sharing)**
 ---
 
-## My Project:
+## My Project: <img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" alt="Bullseye" width="30" />
 **My Portfolio** - [click here for Visit](https://tausif40.github.io/Portfolio/)
 
 **Pate Automotive** - (e-commerce web app) - [Visit - (www.patelautomotive.in)](https://patelautomotive.in/) &nbsp;&nbsp;/ GitHub repository - [link](https://github.com/tausif40/Patel-Automotive.git)
 
 ---
-## Connect with me:
+## Connect with me: &nbsp;<img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" alt="Handshake" width="35" />
 <a href="https://wa.me/918804236040" target="_blank">
 <img src="https://res.cloudinary.com/drfni1iqf/image/upload/v1716007117/Tausif/whatsapp_cxkiwf.png" alt="whatsapp" width="50"></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/mohd-tausif-0142692a9" target="_blank">

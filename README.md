@@ -38,9 +38,11 @@
 ---
 ## Connect with me:
 <a href="https://wa.me/918804236040" target="_blank">
-<img src="https://res.cloudinary.com/drfni1iqf/image/upload/v1716007117/Social%20Icons/whatsapp_cxkiwf.png" alt="whatsapp" width="50"></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://res.cloudinary.com/drfni1iqf/image/upload/v1716007117/Tausif/whatsapp_cxkiwf.png" alt="whatsapp" width="50"></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/mohd-tausif-0142692a9" target="_blank">
-<img src="https://res.cloudinary.com/drfni1iqf/image/upload/v1716007117/Social%20Icons/linkedin_dkxzkb.png" alt="linkedin" width="50"></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://res.cloudinary.com/drfni1iqf/image/upload/v1716007117/Tausif/linkedin_dkxzkb.png" alt="linkedin" width="50"></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.instagram.com/tausif_778" target="_blank">
-<img src="https://res.cloudinary.com/drfni1iqf/image/upload/v1716007117/Social%20Icons/instagram_olgmzn.png" alt="instagram" width="50"></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://res.cloudinary.com/drfni1iqf/image/upload/v1716007117/Tausif/instagram_olgmzn.png" alt="instagram" width="50"></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&to=tausif6040@gmail.com" target="_blank">
+<img src="https://res.cloudinary.com/drfni1iqf/image/upload/v1716037423/Tausif/email_wo0ju5.png" alt="instagram" width="50"></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.hackerrank.com/tausifmd570" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="tausifmd570" width="50" /></a>

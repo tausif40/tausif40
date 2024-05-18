@@ -20,7 +20,7 @@
 
 - 🔭 I’m currently looking for a job
 
-- 🌱 I’m currently learning Next.js, DevOps Tools Such as Docker, Jenkins, Git & GitHub.
+- 🌱 I’m currently learning Next.js and Git & GitHub.
 ---
 <h3>Connect with me: <img src="https://user-images.githubusercontent.com/74038190/214644145-264f4759-7633-441e-9d67-d8dda9d50d26.gif" width="100">
 </h3>

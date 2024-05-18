@@ -18,6 +18,7 @@
 
 **Other Technical Skill:**&nbsp; VS Code | Github | Postman | Figma
 
+‎ 
 - 🔭 I’m currently looking for a job
 
 - 🌱 I’m currently learning **Next.js** and **Git & GitHub**.

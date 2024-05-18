@@ -12,11 +12,11 @@
   <span>Skills <img align="center" src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" height="25" width="40" /></span>
 </h2>
 
-**Languages/Technical Skills:** C/C++| DSA | JAVA | HTTML | CSS | JavaScript | React.js | tailwind CSS
+**Languages / Technical Skills:**&nbsp; C/C++| DSA | JAVA | HTTML | CSS | JavaScript | React.js | tailwind CSS
 
-**Basic Knowledge:** Node.js | MongoDB | MySQL | JDBC
+**Basic Knowledge:**&nbsp; Node.js | MongoDB | MySQL | JDBC
 
-**Other Technical Skill:** VS Code | Github | Postman | Figma
+**Other Technical Skill:**&nbsp; VS Code | Github | Postman | Figma
 
 - 🔭 I’m currently looking for a job
 

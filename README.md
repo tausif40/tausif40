@@ -44,5 +44,5 @@
 <a href="https://www.instagram.com/tausif_778" target="_blank">
 <img src="https://res.cloudinary.com/drfni1iqf/image/upload/v1716007117/Tausif/instagram_olgmzn.png" alt="instagram" width="50"></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&to=tausif6040@gmail.com" target="_blank">
-<img src="https://res.cloudinary.com/drfni1iqf/image/upload/v1716037423/Tausif/email_wo0ju5.png" alt="instagram" width="50"></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://res.cloudinary.com/drfni1iqf/image/upload/v1716037954/Tausif/email_d41we2.png" alt="email" width="65"></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.hackerrank.com/tausifmd570" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="tausifmd570" width="50" /></a>

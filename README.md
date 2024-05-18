@@ -8,9 +8,9 @@
 <!-- <h2 align="center">A professional React js developer</h2> -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-<h2>
-  <span>Skills <img align="center" src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" height="25" width="40" /></span>
-</h2>
+
+## Skills <img align="center" src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" height="25" width="40" />
+
 
 **Languages / Technical Skills:**&nbsp; C/C++| DSA | JAVA | HTTML | CSS | JavaScript | React.js | tailwind CSS
 
@@ -24,12 +24,11 @@
 ---
 
 ## My Project:
+**My Portfolio** - [Visit](https://tausif40.github.io/)
 **Pate Automotive** - (e-commerce web app) - [Visit - (www.patelautomotive.in)](https://patelautomotive.in/) &nbsp;&nbsp;/ GitHub repository - [link](https://github.com/tausif40/Patel-Automotive.git)
 
 ---
-<h3>Connect with me:
-</h3>
-</br>
+## Connect with me:
 <a href="https://wa.me/qr/S3UMQ5MCZWZUG1" target="_blank">
 <img src="https://res.cloudinary.com/drfni1iqf/image/upload/v1716007117/Social%20Icons/whatsapp_cxkiwf.png" alt="whatsapp" width="50"></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/mohd-tausif-0142692a9" target="_blank">

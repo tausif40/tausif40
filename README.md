@@ -36,3 +36,4 @@
 <img src="https://res.cloudinary.com/drfni1iqf/image/upload/v1716007117/Social%20Icons/linkedin_dkxzkb.png" alt="linkedin" width="50"></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.instagram.com/tausif_778" target="_blank">
 <img src="https://res.cloudinary.com/drfni1iqf/image/upload/v1716007117/Social%20Icons/instagram_olgmzn.png" alt="instagram" width="50"></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.hackerrank.com/tausifmd570" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="tausifmd570" width="50" /></a>

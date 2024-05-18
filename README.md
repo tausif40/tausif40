@@ -22,7 +22,12 @@
 
 - 🌱 I’m currently learning Next.js and Git & GitHub.
 ---
-<h3>Connect with me: <img src="https://user-images.githubusercontent.com/74038190/214644145-264f4759-7633-441e-9d67-d8dda9d50d26.gif" width="100">
+
+## My Project:
+Pate Automotive - (e-commerce web app) - [Visit - (www.patelautomotive.in)](https://patelautomotive.in/) &nbsp;&nbsp;/ GitHub repository - [link](https://github.com/tausif40/Patel-Automotive.git)
+
+---
+<h3>Connect with me:
 </h3>
 </br>
 <a href="https://wa.me/qr/S3UMQ5MCZWZUG1" target="_blank">

@@ -20,7 +20,9 @@
 
 - 🔭 I’m currently looking for a job
 
-- 🌱 I’m currently learning Next.js and Git & GitHub.
+- 🌱 I’m currently learning **Next.js** and **Git & GitHub**.
+  
+- 💬 Ask me about **HTML, CSS, Javascript, React.js,**
 
 - 📫 How to reach me **tausif6040@gmail.com**
 

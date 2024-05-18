@@ -21,6 +21,10 @@
 - 🔭 I’m currently looking for a job
 
 - 🌱 I’m currently learning Next.js and Git & GitHub.
+
+- 📫 How to reach me **tausif6040@gmail.com**
+
+- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1uglJVUxPk8RuWmPARPLYAvYYvbFKxVU5/view?usp=sharing)
 ---
 
 ## My Project:

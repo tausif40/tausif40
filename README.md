@@ -1,11 +1,10 @@
-<!-- <h1 align="center"></h1> -->
-<div style="text-align:center;">
+<h1 align="center">
 <span style="font-size: 36px; font-weight:bold;">Hi 
 <img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" width="30">, I'm Tausif</span>
-</div>
-<div style="text-align:center;">
-<span style="font-size: 25px;">A professional React js developer</span>
-</div>
+</h1>
+
+<h3  align="center">A professional React js developer</h3>
+
 <!-- <h2 align="center">A professional React js developer</h2> -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
@@ -33,5 +32,3 @@
 <img src="https://res.cloudinary.com/drfni1iqf/image/upload/v1716007117/Social%20Icons/instagram_olgmzn.png" alt="instagram" width="50"></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/mohd-tausif-0142692a9" target="_blank">
 <img src="https://res.cloudinary.com/drfni1iqf/image/upload/v1716007117/Social%20Icons/linkedin_dkxzkb.png" alt="linkedin" width="50"></a>
-
-<img align="center" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="60%">

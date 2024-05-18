@@ -25,7 +25,7 @@
   
 - 💬 Ask me about **HTML, CSS, Javascript, React.js,**
 
-- 📫 How to reach me **tausif6040@gmail.com**
+- 📫 How to reach me **[tausif6040@gmail.com](https://mail.google.com/mail/u/0/?fs=1&tf=cm&to=tausif6040@gmail.com)**
 
 - 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1uglJVUxPk8RuWmPARPLYAvYYvbFKxVU5/view?usp=sharing)
 ---

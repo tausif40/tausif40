@@ -29,7 +29,5 @@
 <img src="https://res.cloudinary.com/drfni1iqf/image/upload/v1716007117/Social%20Icons/whatsapp_cxkiwf.png" alt="whatsapp" width="50"></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/mohd-tausif-0142692a9" target="_blank">
 <img src="https://res.cloudinary.com/drfni1iqf/image/upload/v1716007117/Social%20Icons/linkedin_dkxzkb.png" alt="linkedin" width="50"></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://wa.me/qr/S3UMQ5MCZWZUG1" target="_blank">
-<img src="https://res.cloudinary.com/drfni1iqf/image/upload/v1716007117/Social%20Icons/twitter_ocevzg.png" alt="twitter" width="50"></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://wa.me/qr/S3UMQ5MCZWZUG1" target="_blank">
+<a href="https://www.instagram.com/tausif_778" target="_blank">
 <img src="https://res.cloudinary.com/drfni1iqf/image/upload/v1716007117/Social%20Icons/instagram_olgmzn.png" alt="instagram" width="50"></a>&nbsp;&nbsp;&nbsp;&nbsp;

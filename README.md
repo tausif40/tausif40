@@ -24,7 +24,8 @@
 ---
 
 ## My Project:
-**My Portfolio** - [Visit](https://tausif40.github.io/)
+**My Portfolio** - [click here for Visit](https://tausif40.github.io/)
+
 **Pate Automotive** - (e-commerce web app) - [Visit - (www.patelautomotive.in)](https://patelautomotive.in/) &nbsp;&nbsp;/ GitHub repository - [link](https://github.com/tausif40/Patel-Automotive.git)
 
 ---

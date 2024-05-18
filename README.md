@@ -24,7 +24,7 @@
 ---
 
 ## My Project:
-Pate Automotive - (e-commerce web app) - [Visit - (www.patelautomotive.in)](https://patelautomotive.in/) &nbsp;&nbsp;/ GitHub repository - [link](https://github.com/tausif40/Patel-Automotive.git)
+**Pate Automotive** - (e-commerce web app) - [Visit - (www.patelautomotive.in)](https://patelautomotive.in/) &nbsp;&nbsp;/ GitHub repository - [link](https://github.com/tausif40/Patel-Automotive.git)
 
 ---
 <h3>Connect with me:

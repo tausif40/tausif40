@@ -33,9 +33,9 @@
 ## My Project: <img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" alt="Bullseye" width="30" />
 **My Portfolio** - [click here for Visit](https://tausif40.github.io/Portfolio/)
 
-**AnyUni** - (consultancy website) - [Visit - (www.AnyUni.io)](https://www.anyuni.io/)
+**AnyUni** - (consultancy website) - [(www.AnyUni.io)](https://www.anyuni.io/)
 
-**Pate Automotive** - (e-commerce web app) - [Visit - (www.patelautomotive.in)](https://patelautomotive.in/) &nbsp;&nbsp;/ GitHub repository - [link](https://github.com/tausif40/Patel-Automotive.git)
+**Pate Automotive** - (e-commerce web app) - [(www.patelautomotive.in)](https://patelautomotive.in/) &nbsp;&nbsp;/ GitHub repository - [link](https://github.com/tausif40/Patel-Automotive.git)
 
 
 ---

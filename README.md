@@ -12,7 +12,7 @@
 ## Skills <img align="center" src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" height="25" width="40" />
 
 
-**Languages / Technical Skills:**&nbsp; C/C++| DSA | JAVA | HTML | CSS | JavaScript | React.js | tailwind CSS
+**Languages / Technical Skills:**&nbsp; C/C++| DSA | JAVA | HTML | CSS | JavaScript | React.js | Next.js | tailwind CSS
 
 **Basic Knowledge:**&nbsp; Node.js | MongoDB | MySQL | JDBC
 

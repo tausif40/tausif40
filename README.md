@@ -21,7 +21,7 @@
 ‎ 
 <!-- - 🔭 I’m currently looking for a job -->
 
-- 🌱 I’m currently learning **Next.js**.
+- 🌱 I’m currently learning **Next.js** and **TypeScript**.
   
 - 💬 Ask me about **HTML, CSS, Javascript, React.js,**
 

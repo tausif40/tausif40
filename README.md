@@ -1,26 +1,25 @@
 <!-- ───────────────────────────── HERO ───────────────────────────── -->
 <a href="https://tausif.info">
-  <img src="./assets/hero.svg" width="100%" alt="Hi, I'm Tausif — Full Stack Developer. Web & mobile apps, from idea to launch." />
+  <img src="./assets/hero.svg" width="100%" alt="Hi, I'm Tausif — Full Stack Developer building web apps, mobile apps and AI products. 5+ years experience, 6+ projects shipped." />
 </a>
 
 <p align="center">
   <a href="https://tausif.info">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=A78BFA&center=true&vCenter=true&width=720&lines=Building+web+%26+mobile+apps+from+idea+to+launch+%F0%9F%9A%80;Next.js+%C2%B7+React+Native+%C2%B7+Node.js+%C2%B7+TypeScript;Shipping+AI+features+with+Claude%2C+OpenAI+%26+LangChain;Open+to+freelance%2C+full-time+%26+contract+work+%E2%9C%A8" alt="Typing intro" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=760&lines=Full+Stack+Developer+%C2%B7+5%2B+years+shipping+production+apps;Next.js+%C2%B7+React+Native+%C2%B7+Node.js+%C2%B7+TypeScript+%C2%B7+AWS;Building+AI-powered+features+with+Claude+%26+OpenAI;Open+to+full-time+%26+remote+roles+%F0%9F%9A%80" alt="Full Stack Developer · 5+ years shipping production apps" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://tausif.info"><img src="https://img.shields.io/badge/Portfolio-tausif.info-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=1E1B4B" alt="Portfolio" /></a>
   <a href="https://www.linkedin.com/in/muhammad-tausif"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&labelColor=0B2545&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDQuODkydjQuOTR6TTUuMzM3IDcuNDMzYTIuMDYyIDIuMDYyIDAgMSAxIDAtNC4xMjUgMi4wNjIgMi4wNjIgMCAwIDEgMCA0LjEyNXptMS43ODIgMTMuMDE5SDMuNTU1VjloMy41NjR2MTEuNDUyek0yMi4yMjUgMEgxLjc3MUMuNzkyIDAgMCAuNzc0IDAgMS43Mjl2MjAuNTQyQzAgMjMuMjI3Ljc5MiAyNCAxLjc3MSAyNGgyMC40NTFDMjMuMiAyNCAyNCAyMy4yMjcgMjQgMjIuMjcxVjEuNzI5QzI0IC43NzQgMjMuMiAwIDIyLjIyMiAweiIvPjwvc3ZnPg%3D%3D" alt="LinkedIn" /></a>
+  <a href="mailto:tausif6040@gmail.com"><img src="https://img.shields.io/badge/Email-tausif6040@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=450A0A" alt="Email" /></a>
   <a href="https://x.com/Tausif81315692"><img src="https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white&labelColor=27272A" alt="X" /></a>
-  <a href="https://www.instagram.com/tausif_778"><img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=4C0519" alt="Instagram" /></a>
-  <a href="mailto:tausif6040@gmail.com"><img src="https://img.shields.io/badge/Email-Say_hi-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=450A0A" alt="Email" /></a>
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=tausif40&style=flat-square&color=8B5CF6&label=PROFILE+VIEWS" alt="Profile views" />
-  <img src="https://img.shields.io/badge/Based_in-Indore,_India_🇮🇳-22D3EE?style=flat-square&labelColor=0D1117" alt="Based in India" />
-  <img src="https://img.shields.io/badge/Status-Available_for_new_projects-22C55E?style=flat-square&labelColor=0D1117" alt="Available" />
+  <img src="https://img.shields.io/badge/Based_in-Indore,_India_🇮🇳-22D3EE?style=flat-square&labelColor=0D1117" alt="Based in Indore, India" />
+  <img src="https://img.shields.io/badge/Open_to-Full--time_·_Contract_·_Remote-22C55E?style=flat-square&labelColor=0D1117" alt="Open to full-time, contract and remote roles" />
 </p>
 
 <img src="./assets/divider.svg" width="100%" alt="" />
@@ -35,52 +34,52 @@
 <tr>
 <td width="60%" valign="top">
 
-I'm **Tausif**, a full stack developer from India who has been shipping products **since 2021**. I build fast, easy-to-use **websites, web apps and mobile apps**, and I take care of the whole journey: design, code and launch.
+I'm a **Full Stack Developer with 5+ years of experience** turning ideas into production-ready **web and mobile apps**. As a **Senior Full Stack Developer** at a product startup, I own a SaaS product end to end: the web app, the React Native mobile app and the backend behind them.
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="20" /> &nbsp;Building a **SaaS product end to end** (web, mobile and backend) at a product startup<br/>
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Mobile%20Phone.png" width="20" /> &nbsp;Shipping cross-platform **React Native** apps for Android &amp; iOS<br/>
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" width="20" /> &nbsp;Adding **AI features** with Claude, OpenAI, Gemini &amp; LangChain<br/>
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="20" /> &nbsp;Side quest: native **macOS apps in Swift** (say hi to SnapText)<br/>
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Speech%20Balloon.png" width="20" /> &nbsp;Ask me about **Next.js, React Native, Node.js** and web performance<br/>
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" width="20" /> &nbsp;Open to **freelance, full-time &amp; contract** work
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="20" /> &nbsp;Shipped **6+ production projects** across SaaS, events, education &amp; industry<br/>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Mobile%20Phone.png" width="20" /> &nbsp;Built and launched **React Native** apps for Android &amp; iOS<br/>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" width="20" /> &nbsp;Improved **web app performance** for a live SaaS product<br/>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" width="20" /> &nbsp;Integrating **AI features** with Claude, OpenAI, Gemini &amp; LangChain<br/>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" width="20" /> &nbsp;Mentor newer developers through **code reviews**<br/>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="20" /> &nbsp;Build native **macOS apps in Swift** on the side (SnapText is open source)
 
 </td>
 <td width="40%" valign="top">
 
 | ⚡ | **Quick Facts** |
 |:-:|:--|
-| 📍 | Indore, India · IST (UTC+5:30) |
 | 💼 | Senior Full Stack Developer |
-| 🗓️ | Shipping since 2021 |
-| 🧰 | 58 tools &amp; technologies |
-| 🌍 | Remote · clients worldwide |
+| 🗓️ | 5+ years · since 2021 |
+| 📍 | Indore, India · IST (UTC+5:30) |
+| 🌍 | Remote-ready, worked with global clients |
+| 🎯 | Open to full-time &amp; contract roles |
 | ⏱️ | Replies within 24 hours |
 
 </td>
 </tr>
 </table>
 
-<!-- ───────────────────────────── SERVICES ───────────────────────────── -->
+<!-- ───────────────────────────── STRENGTHS ───────────────────────────── -->
 <h2>
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Sparkles.png" width="32" align="center" alt="✨" />
-  What I Build
+  What I Bring to a Team
 </h2>
 
 <table>
 <tr>
 <td align="center" width="33%">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20with%20Meridians.png" width="44" /><br/>
-<b>Websites</b><br/>
-&#8203;<sub>Fast, responsive &amp; SEO-friendly</sub>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="44" /><br/>
+<b>End-to-End Ownership</b><br/>
+&#8203;<sub>From first idea to launch &amp; support</sub>
 </td>
 <td align="center" width="33%">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="44" /><br/>
-<b>Web Apps &amp; Dashboards</b><br/>
-&#8203;<sub>SaaS, booking systems, admin panels</sub>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20with%20Meridians.png" width="44" /><br/>
+<b>Modern Frontend</b><br/>
+&#8203;<sub>Next.js, React, TypeScript, Tailwind</sub>
 </td>
 <td align="center" width="33%">
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Mobile%20Phone.png" width="44" /><br/>
-<b>Mobile Apps</b><br/>
+<b>Cross-Platform Mobile</b><br/>
 &#8203;<sub>React Native for Android &amp; iOS</sub>
 </td>
 </tr>
@@ -88,17 +87,17 @@ I'm **Tausif**, a full stack developer from India who has been shipping products
 <td align="center">
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" width="44" /><br/>
 <b>Backend &amp; APIs</b><br/>
-&#8203;<sub>REST, GraphQL, real-time, auth</sub>
+&#8203;<sub>Node.js, NestJS, REST, GraphQL, real-time</sub>
 </td>
 <td align="center">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Shopping%20Cart.png" width="44" /><br/>
-<b>Online Stores</b><br/>
-&#8203;<sub>Cart, secure payments, admin</sub>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" width="44" /><br/>
+<b>AI Integration</b><br/>
+&#8203;<sub>LLM features with Claude, OpenAI &amp; Gemini</sub>
 </td>
 <td align="center">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="44" /><br/>
-<b>Launch &amp; Support</b><br/>
-&#8203;<sub>Hosting, domains, deploys, fixes</sub>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" width="44" /><br/>
+<b>Quality &amp; Teamwork</b><br/>
+&#8203;<sub>Code reviews, tests, mentoring</sub>
 </td>
 </tr>
 </table>
@@ -114,23 +113,23 @@ I'm **Tausif**, a full stack developer from India who has been shipping products
 <table>
 <tr>
 <td width="150"><b>🎨 Frontend</b></td>
-<td><img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,redux,vite,sass,html,css&perline=10" height="44" alt="Frontend" /></td>
+<td><img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,redux,vite,sass,html,css&perline=10" height="44" alt="React, Next.js, TypeScript, JavaScript, Tailwind CSS, Redux, Vite, Sass, HTML, CSS" /></td>
 </tr>
 <tr>
 <td><b>⚙️ Backend</b></td>
-<td><img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,graphql,prisma,firebase&perline=10" height="44" alt="Backend" /></td>
+<td><img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,graphql,prisma,firebase&perline=10" height="44" alt="Node.js, Express, NestJS, GraphQL, Prisma, Firebase" /></td>
 </tr>
 <tr>
 <td><b>📱 Mobile</b></td>
-<td><img src="https://skillicons.dev/icons?i=react,androidstudio,apple,swift&perline=10" height="44" alt="Mobile" /></td>
+<td><img src="https://skillicons.dev/icons?i=react,androidstudio,apple,swift&perline=10" height="44" alt="React Native, Android, iOS, Swift" /></td>
 </tr>
 <tr>
 <td><b>🗄️ Database</b></td>
-<td><img src="https://skillicons.dev/icons?i=mongodb,redis&perline=10" height="44" alt="Database" /></td>
+<td><img src="https://skillicons.dev/icons?i=mongodb,redis&perline=10" height="44" alt="MongoDB, Redis" /></td>
 </tr>
 <tr>
 <td><b>☁️ Cloud &amp; DevOps</b></td>
-<td><img src="https://skillicons.dev/icons?i=aws,docker,vercel,githubactions&perline=10" height="44" alt="Cloud and DevOps" /></td>
+<td><img src="https://skillicons.dev/icons?i=aws,docker,vercel,githubactions&perline=10" height="44" alt="AWS, Docker, Vercel, GitHub Actions" /></td>
 </tr>
 <tr>
 <td><b>🧠 AI</b></td>
@@ -148,7 +147,7 @@ I'm **Tausif**, a full stack developer from India who has been shipping products
 </tr>
 <tr>
 <td><b>🛠️ Tools</b></td>
-<td><img src="https://skillicons.dev/icons?i=git,github,vscode,postman,jest,figma,notion,npm&perline=10" height="44" alt="Tools" /></td>
+<td><img src="https://skillicons.dev/icons?i=git,github,vscode,postman,jest,figma,notion,npm&perline=10" height="44" alt="Git, GitHub, VS Code, Postman, Jest, Figma, Notion, npm" /></td>
 </tr>
 <tr>
 <td><b>📦 Libraries</b></td>
@@ -185,7 +184,10 @@ I'm **Tausif**, a full stack developer from India who has been shipping products
 
 **Senior Full Stack Developer** · *Product Startup* · <sub>🟢 Remote · Full-time</sub>
 
-Building a SaaS product end to end: web app, mobile app and server. Built the React Native app for Android &amp; iOS, made the web app faster, and help newer developers grow through code reviews.
+- Own a **SaaS product end to end**: web app, mobile app and server
+- Built the **React Native app** for Android &amp; iOS
+- Made the web app **faster** and easier to work on
+- Mentor newer developers through **code reviews**
 
 <code>Next.js</code> <code>React Native</code> <code>TypeScript</code> <code>Node.js</code> <code>MongoDB</code> <code>AWS</code>
 
@@ -200,7 +202,9 @@ Building a SaaS product end to end: web app, mobile app and server. Built the Re
 
 **Full Stack Developer** · *Software Agency* · <sub>📍 Indore, India</sub>
 
-Built websites, web apps and mobile apps for e-commerce, logistics and education clients. Took projects from the first meeting all the way to launch and created reusable building blocks for the team.
+- Delivered websites, web apps and mobile apps for **e-commerce, logistics and education** clients
+- Led projects **from the first client meeting to launch**
+- Built **React Native** apps and a library of **reusable components** for the team
 
 <code>React</code> <code>Next.js</code> <code>React Native</code> <code>Node.js</code> <code>Express.js</code> <code>MongoDB</code>
 
@@ -215,7 +219,9 @@ Built websites, web apps and mobile apps for e-commerce, logistics and education
 
 **Web Developer** · *Tech Startup* · <sub>📍 Indore, India</sub>
 
-Built websites and their APIs, added online payments and third-party services, and wrote the team's first automated tests.
+- Built websites and their **REST APIs**
+- Integrated **online payments** and third-party services
+- Wrote the team's **first automated tests**
 
 <code>JavaScript</code> <code>React</code> <code>Node.js</code> <code>Express.js</code> <code>MongoDB</code>
 
@@ -234,88 +240,56 @@ Built websites and their APIs, added online payments and third-party services, a
 <table>
 <tr>
 <td width="50%" valign="top">
-
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" width="28" align="center" /> ByteShelf
-<sub><b>PERSONAL</b> · 2026 · 🟢 Live</sub>
-
-A home for my free apps on macOS, Windows, Linux, Android &amp; iOS. One app is live and three more are on the way.
-
-<code>Next.js</code> <code>TypeScript</code> <code>Tailwind</code> <code>shadcn/ui</code> <code>Motion</code> <code>Zod</code>
-
-<a href="https://byte-shelf-taupe.vercel.app"><img src="https://img.shields.io/badge/Live_Demo-22C55E?style=for-the-badge&logo=vercel&logoColor=white" alt="Live demo" /></a>
-<a href="https://tausif.info/projects/byteshelf"><img src="https://img.shields.io/badge/Case_Study-1E293B?style=for-the-badge&logo=readdotcv&logoColor=white" alt="Case study" /></a>
-
+<p><a href="https://www.zappyeventz.com"><img src="./assets/projects/zappy-eventz.svg" width="100%" alt="Zappy Eventz: event booking platform live in 4 cities" /></a></p>
+<p>
+<a href="https://www.zappyeventz.com"><img src="https://img.shields.io/badge/Live-zappyeventz.com-22C55E?style=flat-square&logo=googlechrome&logoColor=white&labelColor=0D1117" alt="Live site" /></a>
+<img src="https://img.shields.io/badge/Repo-Private_·_client-475569?style=flat-square&logo=github&logoColor=white&labelColor=0D1117" alt="Private repository" />
+</p>
 </td>
 <td width="50%" valign="top">
-
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Party%20Popper.png" width="28" align="center" /> Zappy Eventz
-<sub><b>CLIENT</b> · 2025 · 🎉 Live in 4 cities</sub>
-
-Booking platform for birthday parties &amp; events. 100+ events and services you can filter by age, city and date, with custom bookings, a multi-service cart and online payments.
-
-<code>Next.js</code> <code>Redux</code> <code>Socket.IO</code> <code>Firebase</code> <code>Tailwind</code> <code>Zod</code>
-
-<a href="https://tausif.info/projects/zappy-eventz"><img src="https://img.shields.io/badge/Case_Study-1E293B?style=for-the-badge&logo=readdotcv&logoColor=white" alt="Case study" /></a>
-
+<p><a href="https://www.anyuni.io"><img src="./assets/projects/anyuni.svg" width="100%" alt="AnyUni: study-abroad platform with 60,000+ UK courses" /></a></p>
+<p>
+<a href="https://www.anyuni.io"><img src="https://img.shields.io/badge/Live-anyuni.io-22C55E?style=flat-square&logo=googlechrome&logoColor=white&labelColor=0D1117" alt="Live site" /></a>
+<img src="https://img.shields.io/badge/Repo-Private_·_client-475569?style=flat-square&logo=github&logoColor=white&labelColor=0D1117" alt="Private repository" />
+</p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Magnifying%20Glass%20Tilted%20Left.png" width="28" align="center" /> SnapText
-<sub><b>PERSONAL</b> · 2026 · 🍎 macOS · Open source</sub>
-
-A menu bar app that copies text from anywhere on screen with <kbd>⌥</kbd> + <kbd>X</kbd>. Keeps up to 1,000 clipboard items and reads 28 languages on-device with Apple Vision. No screenshots saved.
-
-<code>Swift 6.2</code> <code>AppKit</code> <code>Apple Vision</code> <code>Accessibility API</code>
-
-<a href="https://github.com/tausif40/SnapText"><img src="https://img.shields.io/badge/Source-1E293B?style=for-the-badge&logo=github&logoColor=white" alt="Source code" /></a>
-<a href="https://tausif.info/projects/snaptext"><img src="https://img.shields.io/badge/Case_Study-1E293B?style=for-the-badge&logo=readdotcv&logoColor=white" alt="Case study" /></a>
-
+<p><a href="https://byte-shelf-taupe.vercel.app/apps/snap-text"><img src="./assets/projects/snaptext.svg" width="100%" alt="SnapText: macOS menu bar OCR app" /></a></p>
+<p>
+<a href="https://byte-shelf-taupe.vercel.app/apps/snap-text"><img src="https://img.shields.io/badge/Live-Download_app-22C55E?style=flat-square&logo=apple&logoColor=white&labelColor=0D1117" alt="Download" /></a>
+<a href="https://github.com/tausif40/SnapText"><img src="https://img.shields.io/badge/Repo-tausif40%2FSnapText-A78BFA?style=flat-square&logo=github&logoColor=white&labelColor=0D1117" alt="Source code" /></a>
+</p>
 </td>
 <td width="50%" valign="top">
-
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" width="28" align="center" /> AnyUni
-<sub><b>CLIENT</b> · 2025 · 🎓 Study abroad</sub>
-
-Students search 60,000+ UK university courses, run a free AI eligibility check from their IELTS score and grades, keep a shortlist and book free counselling.
-
-<code>Next.js</code> <code>Redux Toolkit</code> <code>Tailwind</code> <code>Google Auth</code> <code>reCAPTCHA</code>
-
-<a href="https://tausif.info/projects/anyuni"><img src="https://img.shields.io/badge/Case_Study-1E293B?style=for-the-badge&logo=readdotcv&logoColor=white" alt="Case study" /></a>
-
+<p><a href="https://byte-shelf-taupe.vercel.app"><img src="./assets/projects/byteshelf.svg" width="100%" alt="ByteShelf: download hub for my free apps" /></a></p>
+<p>
+<a href="https://byte-shelf-taupe.vercel.app"><img src="https://img.shields.io/badge/Live-byteshelf-22C55E?style=flat-square&logo=vercel&logoColor=white&labelColor=0D1117" alt="Live site" /></a>
+<img src="https://img.shields.io/badge/Repo-Private-475569?style=flat-square&logo=github&logoColor=white&labelColor=0D1117" alt="Private repository" />
+</p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Coat.png" width="28" align="center" /> Best Fitted Wardrobe
-<sub><b>CLIENT</b> · 2024 · 🇬🇧 London</sub>
-
-Website for a London maker of bespoke fitted wardrobes.
-
-<code>React</code> <code>JavaScript</code> <code>Tailwind</code> <code>HTML</code> <code>CSS</code>
-
-<a href="https://tausif.info/projects/best-fitted-wardrobe"><img src="https://img.shields.io/badge/Case_Study-1E293B?style=for-the-badge&logo=readdotcv&logoColor=white" alt="Case study" /></a>
-
+<p><a href="https://www.bestfittedwardrobe.co.uk"><img src="./assets/projects/best-fitted-wardrobe.svg" width="100%" alt="Best Fitted Wardrobe: website for a London wardrobe maker" /></a></p>
+<p>
+<a href="https://www.bestfittedwardrobe.co.uk"><img src="https://img.shields.io/badge/Live-bestfittedwardrobe.co.uk-22C55E?style=flat-square&logo=googlechrome&logoColor=white&labelColor=0D1117" alt="Live site" /></a>
+<img src="https://img.shields.io/badge/Repo-Private_·_client-475569?style=flat-square&logo=github&logoColor=white&labelColor=0D1117" alt="Private repository" />
+</p>
 </td>
 <td width="50%" valign="top">
-
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" width="28" align="center" /> Auroterra Energy
-<sub><b>CLIENT</b> · 2024 · 🏭 Industrial</sub>
-
-Website for an industrial polymer supplier.
-
-<code>React</code> <code>JavaScript</code> <code>Tailwind</code> <code>HTML</code> <code>CSS</code>
-
-<a href="https://tausif.info/projects/auroterra-energy"><img src="https://img.shields.io/badge/Case_Study-1E293B?style=for-the-badge&logo=readdotcv&logoColor=white" alt="Case study" /></a>
-
+<p><a href="https://auroterraenergy.com"><img src="./assets/projects/auroterra-energy.svg" width="100%" alt="Auroterra Energy: product catalogue for a polymer supplier" /></a></p>
+<p>
+<a href="https://auroterraenergy.com"><img src="https://img.shields.io/badge/Live-auroterraenergy.com-22C55E?style=flat-square&logo=googlechrome&logoColor=white&labelColor=0D1117" alt="Live site" /></a>
+<img src="https://img.shields.io/badge/Repo-Private_·_client-475569?style=flat-square&logo=github&logoColor=white&labelColor=0D1117" alt="Private repository" />
+</p>
 </td>
 </tr>
 </table>
 
 <p align="center">
-  <a href="https://tausif.info/projects"><img src="https://img.shields.io/badge/See_all_projects-tausif.info%2Fprojects-8B5CF6?style=for-the-badge&labelColor=1E1B4B" alt="See all projects" /></a>
+  <a href="https://tausif.info/projects"><img src="https://img.shields.io/badge/Case_studies-tausif.info%2Fprojects-8B5CF6?style=for-the-badge&labelColor=1E1B4B" alt="Read the case studies" /></a>
 </p>
 
 <img src="./assets/divider.svg" width="100%" alt="" />
@@ -330,19 +304,14 @@ Website for an industrial polymer supplier.
 
 <img src="./assets/divider.svg" width="100%" alt="" />
 
-<!-- ───────────────────────────── STATS ───────────────────────────── -->
+<!-- ───────────────────────────── ACTIVITY ───────────────────────────── -->
 <h2>
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" width="32" align="center" alt="📈" />
   GitHub Activity
 </h2>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tausif40&theme=github_dark" width="100%" alt="Contribution summary" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=tausif40&background=0D1117&border=2E343B&stroke=2E343B&ring=A78BFA&fire=F472B6&currStreakNum=F8FAFC&sideNums=F8FAFC&currStreakLabel=22D3EE&sideLabels=A78BFA&dates=8B949E&border_radius=6" height="180" alt="GitHub streak" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tausif40&theme=github_dark" height="180" alt="Top languages by commit" />
+  <img src="./assets/activity.svg" width="100%" alt="Contribution activity: total contributions, streaks, weekly trend and weekday breakdown for the last 12 months" />
 </p>
 
 <p align="center">
@@ -356,18 +325,18 @@ Website for an industrial polymer supplier.
 <!-- ───────────────────────────── CONTACT ───────────────────────────── -->
 <h2 align="center">
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" width="34" align="center" alt="🤝" />
-  Let's build something great together
+  Hiring? Let's talk.
 </h2>
 
 <p align="center">
-  Got an idea for a website, web app or mobile app? Tell me about it.<br/>
-  <sub>I usually reply within 24 hours.</sub>
+  I'm open to <b>full-time</b> and <b>contract</b> roles, remote or on-site.<br/>
+  The fastest way to reach me is email or LinkedIn. I reply within 24 hours.
 </p>
 
 <p align="center">
-  <a href="https://tausif.info/contact"><img src="https://img.shields.io/badge/Start_a_project-8B5CF6?style=for-the-badge&logo=rocket&logoColor=white" alt="Start a project" /></a>
-  <a href="mailto:tausif6040@gmail.com"><img src="https://img.shields.io/badge/tausif6040@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://wa.me/918804236040"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
+  <a href="mailto:tausif6040@gmail.com"><img src="https://img.shields.io/badge/Email_me-tausif6040@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=450A0A" alt="Email me" /></a>
+  <a href="https://www.linkedin.com/in/muhammad-tausif"><img src="https://img.shields.io/badge/LinkedIn-muhammad--tausif-0A66C2?style=for-the-badge&labelColor=0B2545&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDQuODkydjQuOTR6TTUuMzM3IDcuNDMzYTIuMDYyIDIuMDYyIDAgMSAxIDAtNC4xMjUgMi4wNjIgMi4wNjIgMCAwIDEgMCA0LjEyNXptMS43ODIgMTMuMDE5SDMuNTU1VjloMy41NjR2MTEuNDUyek0yMi4yMjUgMEgxLjc3MUMuNzkyIDAgMCAuNzc0IDAgMS43Mjl2MjAuNTQyQzAgMjMuMjI3Ljc5MiAyNCAxLjc3MSAyNGgyMC40NTFDMjMuMiAyNCAyNCAyMy4yMjcgMjQgMjIuMjcxVjEuNzI5QzI0IC43NzQgMjMuMiAwIDIyLjIyMiAweiIvPjwvc3ZnPg%3D%3D" alt="LinkedIn" /></a>
+  <a href="https://tausif.info"><img src="https://img.shields.io/badge/Portfolio-tausif.info-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=1E1B4B" alt="Portfolio" /></a>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:22D3EE,50:8B5CF6,100:F472B6&height=120&section=footer" width="100%" alt="" />

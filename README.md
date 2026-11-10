@@ -14,9 +14,9 @@
 <!-- <img src="./assets/divider.svg" width="100%" alt="" /> -->
 
 <!-- ───────────────────────────── INTRO ───────────────────────────── -->
-<p>
+<!-- <p>
   <img src="./assets/intro.svg" width="100%" alt="In short: I turn ideas into products people love to use. 5+ years building, 10+ projects shipped. Product mindset, front end to back end, AI that ships, clean scalable code, clear communication, fast and steady delivery." />
-</p>
+</p> -->
 
 <!-- ───────────────────────────── WHAT I DO ───────────────────────────── -->
 <h2>
@@ -24,35 +24,9 @@
   What I Do
 </h2>
 
-<table>
-<tr>
-<td align="center" width="20%">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20with%20Meridians.png" width="40" alt="🌐" /><br/>
-<b>Web Apps</b><br/>
-&#8203;<sub>Next.js · React · TypeScript</sub>
-</td>
-<td align="center" width="20%">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Mobile%20Phone.png" width="40" alt="📱" /><br/>
-<b>Mobile Apps</b><br/>
-&#8203;<sub>React Native · Android · iOS</sub>
-</td>
-<td align="center" width="20%">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" width="40" alt="⚙️" /><br/>
-<b>Backend &amp; APIs</b><br/>
-&#8203;<sub>Node.js · NestJS · GraphQL</sub>
-</td>
-<td align="center" width="20%">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" width="40" alt="🤖" /><br/>
-<b>AI Features</b><br/>
-&#8203;<sub>Claude · OpenAI · LangChain</sub>
-</td>
-<td align="center" width="20%">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Cloud.png" width="40" alt="☁️" /><br/>
-<b>Cloud &amp; DevOps</b><br/>
-&#8203;<sub>AWS · Docker · CI/CD</sub>
-</td>
-</tr>
-</table>
+<p>
+  <img src="./assets/what-i-do.svg" width="100%" alt="What I do: Web Apps (Next.js, React, TypeScript) · Mobile Apps (React Native, Android, iOS) · Backend &amp; APIs (Node.js, NestJS, GraphQL) · AI Features (Claude, OpenAI, LangChain) · Cloud &amp; DevOps (AWS, Docker, CI/CD)" />
+</p>
 
 <!-- <img src="./assets/divider.svg" width="100%" alt="" /> -->
 
@@ -62,10 +36,8 @@
   Open Source Projects
 </h2>
 
-<p align="center">
-  <a href="https://github.com/tausif40/SnapText"><img src="./assets/projects/snaptext.svg" width="100%" alt="SnapText: a macOS menu bar app that copies text from anywhere on screen (Option-X) and keeps a searchable clipboard history (Option-V)" /></a>
-  <a href="https://github.com/tausif40/SnapText"><img src="./assets/projects/snaptext-source.svg" width="49%" alt="View SnapText source code on GitHub" /></a>
-  <a href="https://byte-shelf-taupe.vercel.app/apps/snap-text"><img src="./assets/projects/snaptext-download.svg" width="49%" alt="Download SnapText for macOS 13 or later" /></a>
+<p>
+<a href="https://github.com/tausif40/SnapText"><img align="top" src="./assets/projects/snaptext.svg" width="100%" alt="SnapText: a macOS menu bar app that copies text from anywhere on screen (Option-X) and keeps a searchable clipboard history (Option-V)" /></a><a href="https://github.com/tausif40/SnapText"><img align="top" src="./assets/projects/snaptext-row-l.svg" width="4.6667%" alt="" /></a><a href="https://github.com/tausif40/SnapText"><img align="top" src="./assets/projects/snaptext-source.svg" width="19.8333%" alt="View SnapText source code on GitHub" /></a><a href="https://byte-shelf-taupe.vercel.app/apps/snap-text"><img align="top" src="./assets/projects/snaptext-download.svg" width="22.8333%" alt="Download SnapText for macOS 13 or later" /></a><a href="https://github.com/tausif40/SnapText"><img align="top" src="./assets/projects/snaptext-row-r.svg" width="52.6647%" alt="" /></a><a href="https://github.com/tausif40/SnapText"><img align="top" src="./assets/projects/snaptext-bottom.svg" width="100%" alt="" /></a>
 </p>
 
 <!-- Add the next open-source project here, using the same card + buttons layout. -->
@@ -83,11 +55,7 @@
 </p>
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tausif40/tausif40/output/snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tausif40/tausif40/output/snake-light.svg" />
-    <img src="https://raw.githubusercontent.com/tausif40/tausif40/output/snake-dark.svg" width="100%" alt="Snake eating my contribution graph" />
-  </picture>
+  <img src="./assets/snake.svg" width="100%" alt="Snake eating my contribution graph" />
 </p>
 
 <!-- ───────────────────────────── FOOTER ───────────────────────────── -->

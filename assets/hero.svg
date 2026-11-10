@@ -1,0 +1,134 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 440" width="1200" height="440" role="img" aria-labelledby="t d">
+  <title id="t">Tausif — Full Stack Developer</title>
+  <desc id="d">Web and mobile apps, from idea to launch. Based in India, working remote worldwide.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0A0E1A"/>
+      <stop offset="0.55" stop-color="#0D1117"/>
+      <stop offset="1" stop-color="#140B26"/>
+    </linearGradient>
+    <radialGradient id="o1"><stop offset="0" stop-color="#8B5CF6" stop-opacity=".45"/><stop offset="1" stop-color="#8B5CF6" stop-opacity="0"/></radialGradient>
+    <radialGradient id="o2"><stop offset="0" stop-color="#22D3EE" stop-opacity=".28"/><stop offset="1" stop-color="#22D3EE" stop-opacity="0"/></radialGradient>
+    <radialGradient id="o3"><stop offset="0" stop-color="#F472B6" stop-opacity=".22"/><stop offset="1" stop-color="#F472B6" stop-opacity="0"/></radialGradient>
+    <linearGradient id="tg" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="420" y2="0" spreadMethod="reflect">
+      <stop offset="0" stop-color="#22D3EE"/>
+      <stop offset=".5" stop-color="#A78BFA"/>
+      <stop offset="1" stop-color="#F472B6"/>
+      <animateTransform attributeName="gradientTransform" type="translate" from="0 0" to="840 0" dur="8s" repeatCount="indefinite"/>
+    </linearGradient>
+    <linearGradient id="edge" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#A78BFA" stop-opacity=".55"/>
+      <stop offset=".5" stop-color="#ffffff" stop-opacity=".06"/>
+      <stop offset="1" stop-color="#22D3EE" stop-opacity=".45"/>
+    </linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#ffffff" stroke-opacity=".045"/>
+    </pattern>
+    <radialGradient id="fade" cx=".35" cy=".45" r=".75">
+      <stop offset="0" stop-color="#fff"/><stop offset="1" stop-color="#fff" stop-opacity="0"/>
+    </radialGradient>
+    <mask id="gm"><rect width="1200" height="440" fill="url(#fade)"/></mask>
+    <clipPath id="frame"><rect width="1200" height="440" rx="28"/></clipPath>
+    <clipPath id="card"><rect x="640" y="48" width="516" height="344" rx="16"/></clipPath>
+  </defs>
+
+  <style>
+    .f{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Inter,Roboto,Helvetica,Arial,sans-serif}
+    .m{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace;white-space:pre}
+    .rise{animation:rise .7s cubic-bezier(.2,.8,.2,1) backwards}
+    .d1{animation-delay:.1s}.d2{animation-delay:.25s}.d3{animation-delay:.4s}.d4{animation-delay:.55s}.d5{animation-delay:.7s}.d6{animation-delay:.85s}
+    .l{animation:rise .5s cubic-bezier(.2,.8,.2,1) backwards}
+    .a1{animation-delay:1.0s}.a2{animation-delay:1.2s}.a3{animation-delay:1.4s}.a4{animation-delay:1.6s}.a5{animation-delay:1.8s}.a6{animation-delay:2.0s}.a7{animation-delay:2.2s}.a8{animation-delay:2.4s}
+    @keyframes rise{from{opacity:0;transform:translateY(12px)}to{opacity:1;transform:translateY(0)}}
+    .o1{animation:drift1 14s ease-in-out infinite}
+    .o2{animation:drift2 18s ease-in-out infinite}
+    .o3{animation:drift3 16s ease-in-out infinite}
+    @keyframes drift1{0%,100%{transform:translate(0,0)}50%{transform:translate(-90px,50px)}}
+    @keyframes drift2{0%,100%{transform:translate(0,0)}50%{transform:translate(110px,-60px)}}
+    @keyframes drift3{0%,100%{transform:translate(0,0)}50%{transform:translate(-60px,-40px)}}
+    .card{animation:float 7s ease-in-out infinite}
+    @keyframes float{0%,100%{transform:translateY(0)}50%{transform:translateY(-8px)}}
+    .ping{transform-box:fill-box;transform-origin:center;animation:ping 1.8s cubic-bezier(0,0,.2,1) infinite}
+    @keyframes ping{0%{transform:scale(1);opacity:.7}100%{transform:scale(2.8);opacity:0}}
+    .cur{animation:blink 1.05s steps(1) infinite}
+    @keyframes blink{50%{opacity:0}}
+    @media (prefers-reduced-motion:reduce){*{animation:none!important}}
+    .kw{fill:#C084FC}.id{fill:#67E8F9}.k{fill:#A5B4FC}.s{fill:#86EFAC}.p{fill:#94A3B8}.n{fill:#3B4558}
+  </style>
+
+  <g clip-path="url(#frame)">
+    <rect width="1200" height="440" fill="url(#bg)"/>
+    <circle class="o1" cx="1010" cy="70" r="300" fill="url(#o1)"/>
+    <circle class="o2" cx="150" cy="430" r="300" fill="url(#o2)"/>
+    <circle class="o3" cx="1120" cy="420" r="220" fill="url(#o3)"/>
+    <rect width="1200" height="440" fill="url(#grid)" mask="url(#gm)"/>
+  </g>
+  <rect x=".75" y=".75" width="1198.5" height="438.5" rx="27.5" fill="none" stroke="url(#edge)" stroke-width="1.5"/>
+
+  <!-- left column -->
+  <g class="f">
+    <g class="rise d1">
+      <rect x="64" y="52" width="252" height="34" rx="17" fill="#22C55E" fill-opacity=".1" stroke="#22C55E" stroke-opacity=".35"/>
+      <circle class="ping" cx="85" cy="69" r="5" fill="#22C55E"/>
+      <circle cx="85" cy="69" r="5" fill="#22C55E"/>
+      <text x="100" y="74" font-size="14" font-weight="600" fill="#86EFAC" letter-spacing=".2">Available for new projects</text>
+    </g>
+
+    <text class="rise d2" x="62" y="160" font-size="62" font-weight="800" fill="#F8FAFC" letter-spacing="-1.5">Hi, I'm <tspan fill="url(#tg)">Tausif</tspan></text>
+    <text class="rise d3" x="64" y="210" font-size="28" font-weight="600" fill="#E2E8F0" letter-spacing="-.3">Full Stack Developer</text>
+    <text class="rise d4" x="64" y="250" font-size="18" fill="#94A3B8">Web &amp; mobile apps, from idea to launch.</text>
+
+    <g class="rise d5" font-size="14" font-weight="500" fill="#CBD5E1">
+      <rect x="64" y="284" width="158" height="36" rx="10" fill="#ffffff" fill-opacity=".04" stroke="#ffffff" stroke-opacity=".1"/>
+      <g transform="translate(78 292) scale(.83)" fill="none" stroke="#F472B6" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M20 10c0 6-8 12-8 12s-8-6-8-12a8 8 0 0 1 16 0Z"/><circle cx="12" cy="10" r="3"/></g>
+      <text x="104" y="307">India · Remote</text>
+
+      <rect x="232" y="284" width="140" height="36" rx="10" fill="#ffffff" fill-opacity=".04" stroke="#ffffff" stroke-opacity=".1"/>
+      <g transform="translate(246 292) scale(.83)" fill="none" stroke="#FBBF24" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M13 2 3 14h9l-1 8 10-12h-9l1-8z"/></g>
+      <text x="272" y="307">5+ years exp</text>
+
+      <rect x="382" y="284" width="184" height="36" rx="10" fill="#ffffff" fill-opacity=".04" stroke="#ffffff" stroke-opacity=".1"/>
+      <g transform="translate(396 292) scale(.83)" fill="none" stroke="#22D3EE" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="2" y="3" width="20" height="14" rx="2"/><path d="M8 21h8M12 17v4"/></g>
+      <text x="422" y="307">Web · Mobile · AI</text>
+    </g>
+
+    <g class="rise d6">
+      <text x="64" y="388" class="m" font-size="15" fill="#A78BFA">tausif.info <tspan fill="#64748B">↗</tspan></text>
+    </g>
+  </g>
+
+  <!-- code editor card -->
+  <g class="card">
+    <g class="rise d3">
+      <rect x="640" y="48" width="516" height="344" rx="16" fill="#0B1020" fill-opacity=".82"/>
+      <g clip-path="url(#card)">
+        <rect x="640" y="48" width="516" height="40" fill="#ffffff" fill-opacity=".03"/>
+        <rect x="640" y="362" width="516" height="30" fill="#8B5CF6" fill-opacity=".14"/>
+      </g>
+      <rect x="640.5" y="48.5" width="515" height="343" rx="15.5" fill="none" stroke="#94A3B8" stroke-opacity=".2"/>
+      <line x1="640" y1="88" x2="1156" y2="88" stroke="#94A3B8" stroke-opacity=".14"/>
+      <circle cx="664" cy="68" r="6" fill="#FF5F57"/>
+      <circle cx="684" cy="68" r="6" fill="#FEBC2E"/>
+      <circle cx="704" cy="68" r="6" fill="#28C840"/>
+      <text x="898" y="73" text-anchor="middle" class="m" font-size="13" fill="#94A3B8">tausif.ts</text>
+
+      <g class="m" font-size="12" fill="#A78BFA">
+        <circle cx="662" cy="377" r="3.5" fill="#22C55E"/>
+        <text x="672" y="381">main</text>
+        <text x="720" y="381" fill="#64748B">TypeScript · UTF-8</text>
+        <text x="1138" y="381" text-anchor="end" fill="#64748B">Ln 8, Col 3</text>
+      </g>
+    </g>
+
+    <g class="m" font-size="15">
+      <g class="l a1"><text x="672" y="124" text-anchor="end" class="n">1</text><text x="692" y="124"><tspan class="kw">const</tspan> <tspan class="id">tausif</tspan> <tspan class="p">= {</tspan></text></g>
+      <g class="l a2"><text x="672" y="153" text-anchor="end" class="n">2</text><text x="710" y="153"><tspan class="k">role</tspan><tspan class="p">: </tspan><tspan class="s">"Full Stack Developer"</tspan><tspan class="p">,</tspan></text></g>
+      <g class="l a3"><text x="672" y="182" text-anchor="end" class="n">3</text><text x="710" y="182"><tspan class="k">stack</tspan><tspan class="p">: [</tspan><tspan class="s">"Next.js"</tspan><tspan class="p">, </tspan><tspan class="s">"React Native"</tspan><tspan class="p">, </tspan><tspan class="s">"Node"</tspan><tspan class="p">],</tspan></text></g>
+      <g class="l a4"><text x="672" y="211" text-anchor="end" class="n">4</text><text x="710" y="211"><tspan class="k">ai</tspan><tspan class="p">: [</tspan><tspan class="s">"Claude"</tspan><tspan class="p">, </tspan><tspan class="s">"OpenAI"</tspan><tspan class="p">, </tspan><tspan class="s">"LangChain"</tspan><tspan class="p">],</tspan></text></g>
+      <g class="l a5"><text x="672" y="240" text-anchor="end" class="n">5</text><text x="710" y="240"><tspan class="k">shipping</tspan><tspan class="p">: </tspan><tspan class="s">"since 2021"</tspan><tspan class="p">,</tspan></text></g>
+      <g class="l a6"><text x="672" y="269" text-anchor="end" class="n">6</text><text x="710" y="269"><tspan class="k">location</tspan><tspan class="p">: </tspan><tspan class="s">"India · Remote"</tspan><tspan class="p">,</tspan></text></g>
+      <g class="l a7"><text x="672" y="298" text-anchor="end" class="n">7</text><text x="710" y="298"><tspan class="k">openTo</tspan><tspan class="p">: [</tspan><tspan class="s">"freelance"</tspan><tspan class="p">, </tspan><tspan class="s">"full-time"</tspan><tspan class="p">],</tspan></text></g>
+      <g class="l a8"><text x="672" y="327" text-anchor="end" class="n">8</text><text x="692" y="327"><tspan class="p">};</tspan></text><rect class="cur" x="714" y="313" width="9" height="18" rx="1" fill="#A78BFA"/></g>
+    </g>
+  </g>
+</svg>
